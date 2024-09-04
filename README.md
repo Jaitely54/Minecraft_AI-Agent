@@ -1,2 +1,2 @@
-# Minecraft_AI-Agent
+# Minecraft_AI-Agent [ongoing]
 ## play with him: he is good
