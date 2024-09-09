@@ -2,7 +2,7 @@ import random
 from mineflayer import Vec3
 
 def setup_movement(bot):
-    print('Churan is ready to move.')
+    print('lee-mon is ready to move.')
 
     def random_walk():
         print('Starting random walk...')
