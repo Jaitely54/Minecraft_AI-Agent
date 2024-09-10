@@ -7,7 +7,7 @@ bot = Mineflayer(Config.HOST, Config.PORT, Config.USERNAME)
 
 @bot.event
 def on_spawn():
-    print("Churan has spawned in the game.")
+    print("lee-mon has spawned in the game.")
     setup_movement(bot)
 #gg good going
 @bot.event
