@@ -9,7 +9,7 @@ bot = Mineflayer(Config.HOST, Config.PORT, Config.USERNAME)
 def on_spawn():
     print("Churan has spawned in the game.")
     setup_movement(bot)
-
+#gg good going
 @bot.event
 def on_chat(username, message):
     if username != Config.USERNAME:
